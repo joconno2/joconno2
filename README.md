@@ -1,15 +1,8 @@
-# Jim O'Connor
-
-Research Scholar & Assistant Director, [Autonomous Agent Learning Lab](https://github.com/ConnAALL) (AALL) at Connecticut College.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## Research
+![Evolutionary Computation](https://img.shields.io/badge/Evolutionary_Computation-2E4057?style=for-the-badge)
+![Game AI](https://img.shields.io/badge/Game_AI-8B0000?style=for-the-badge)
+![Quality--Diversity](https://img.shields.io/badge/Quality--Diversity-2D6A4F?style=for-the-badge)
+![Neuroevolution](https://img.shields.io/badge/Neuroevolution-4A154B?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-1A5276?style=for-the-badge)
 
 I run experiments on evolutionary computation applied to games, robotics, and finance. Most of the lab's work is about finding problems where EC beats gradient-based methods, and understanding why.
 
@@ -19,7 +12,7 @@ I run experiments on evolutionary computation applied to games, robotics, and fi
 - **Game AI** — Dragonchess, Dark Souls, XPilot, Sokoban, fighting games, Mahjong
 - **Robotics** — PAL (Punctuated Anytime Learning) on real and simulated swarm systems
 
-## Selected Publications
+### Selected Publications
 
 - J. O'Connor et al. "Playing Atari Space Invaders with SCOPE." **AIIDE 2025**.
 - J. O'Connor, D. Gezgin, G. Parker. "Evolutionary Optimization of Deep Learning Agents for Sparrow Mahjong." **AIIDE 2025**.
@@ -28,18 +21,10 @@ I run experiments on evolutionary computation applied to games, robotics, and fi
 
 [Full list and preprints](https://oconnor.digital.conncoll.edu)
 
-## Selected Repositories
+---
 
-| Repository | Description |
-|------------|-------------|
-| [ConnAALL](https://github.com/ConnAALL) | Lab organization: SCOPE, EvoSim, PuzzleJAX, DSLE, distributed NEAT, and student research |
-| [DragonchessAI](https://github.com/joconno2/DragonchessAI) | 3D chess variant engine with neural network training via TD(lambda) self-play |
-| [dsapi](https://github.com/joconno2/dsapi) | Dark Souls API for AI research |
-| [MAGE](https://github.com/joconno2/MAGE) | MAP-Elites + GP for diverse trading alpha generation |
-| [qdavc-experiments](https://github.com/joconno2/qdavc-experiments) | QD under variable constraints (AIIDE 2026 competition) |
-
-## Links
-
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qSHpGgYAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jim-Oconnor-7)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/jimoconnoraall.bsky.social)
-[![Website](https://img.shields.io/badge/Website-oconnor.digital-4A154B?style=flat&logo=googlechrome&logoColor=white)](https://oconnor.digital.conncoll.edu)
+[![Website](https://img.shields.io/badge/Website-oconnor.digital-333?style=flat&logo=googlechrome&logoColor=white)](https://oconnor.digital.conncoll.edu)
 [![ConnAALL](https://img.shields.io/badge/Lab-ConnAALL-181717?style=flat&logo=github&logoColor=white)](https://github.com/ConnAALL)
