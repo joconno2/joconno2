@@ -6,11 +6,11 @@
 
 I run experiments on evolutionary computation applied to games, robotics, and finance. Most of the lab's work is about finding problems where EC beats gradient-based methods, and understanding why.
 
-- **Input compression** — SCOPE: DCT/wavelet compression that makes high-dimensional policy evolution tractable
-- **Quality-Diversity** — MAP-Elites for opponent adaptation, alpha generation, market making
-- **Neuroevolution** — NEAT, NeuroPAL, ES-based distillation of large language models
-- **Game AI** — Dragonchess, Dark Souls, XPilot, Sokoban, fighting games, Mahjong
-- **Robotics** — PAL (Punctuated Anytime Learning) on real and simulated swarm systems
+- **Input compression**:SCOPE: DCT/wavelet compression that makes high-dimensional policy evolution tractable
+- **Quality-Diversity**:MAP-Elites for opponent adaptation, alpha generation, market making
+- **Neuroevolution**:NEAT, NeuroPAL, ES-based distillation of large language models
+- **Game AI**:Dragonchess, Dark Souls, XPilot, Sokoban, fighting games, Mahjong
+- **Robotics**:PAL (Punctuated Anytime Learning) on real and simulated swarm systems
 
 ### Selected Publications
 
