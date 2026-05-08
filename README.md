@@ -1,8 +1,8 @@
 ![Evolutionary Computation](https://img.shields.io/badge/Evolutionary_Computation-2E4057?style=for-the-badge)
 ![Game AI](https://img.shields.io/badge/Game_AI-8B0000?style=for-the-badge)
-![Quality--Diversity](https://img.shields.io/badge/Quality--Diversity-2D6A4F?style=for-the-badge)
+![Input Compression](https://img.shields.io/badge/Input_Compression-2D6A4F?style=for-the-badge)
 ![Neuroevolution](https://img.shields.io/badge/Neuroevolution-4A154B?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-1A5276?style=for-the-badge)
+![Computational Finance](https://img.shields.io/badge/Computational_Finance-1A5276?style=for-the-badge)
 
 I run experiments on evolutionary computation applied to games, robotics, and finance. Most of the lab's work is about finding problems where EC beats gradient-based methods, and understanding why.
 
